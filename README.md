@@ -1,3 +1,3 @@
 # cicd-demo
 CICD Demo 
-runn
+run
